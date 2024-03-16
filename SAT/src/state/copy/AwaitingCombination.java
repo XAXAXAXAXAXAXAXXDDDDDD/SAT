@@ -1,5 +1,7 @@
 package state.copy;
 
+
+// only copy file
 public class AwaitingCombination extends State {
 
 	private Controller m_controller;
